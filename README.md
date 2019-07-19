@@ -1,2 +1,0 @@
-# Lokesh
-Sample Github repo
